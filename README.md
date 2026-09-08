@@ -35,7 +35,7 @@ Dados extraídos via `ipconfig /all` no Prompt de Comando:
 
 ## 📷 3. Evidência de Execução (Terminal)
 
-![Captura do Terminal de Comando](./img/terminal-ipconfig.png)
+![Captura do Terminal de Comando](./img/terminal-ipconfig.jfif)
 
 ---
 
