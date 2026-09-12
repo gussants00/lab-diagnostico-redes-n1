@@ -10,7 +10,7 @@ Esta documentação foi desenvolvida com o intuito de simular o dia a dia de um 
 
 | Módulo / Tema | O que é praticado | Arquivo |
 | :--- | :--- | :---: |
-| **[Nome do Módulo 1]** | [Resumo dos comandos/conceitos] | [📄 Acessar Guia](diagnostico-e-dns.md) |
-| **[Nome do Módulo 2]** | [Resumo dos comandos/conceitos] | ⏳ *Em breve* |
+| **01. Diagnóstico CLI e DNS** | `ipconfig`, `ping`, `tracert`, `flushdns` e análise de nomes | [📄 Acessar Guia](diagnostico-e-dns.md) |
+| **Lab 02 - Serviço DHCP e DNS** | Redefinição de pilha TCP/IP, adaptadores e VPN corporativa | ⏳ *Em breve* |
 
 ---
